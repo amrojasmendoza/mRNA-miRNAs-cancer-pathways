@@ -1,0 +1,1263 @@
+AAAS	Reactome	Cell cycle
+ABL1	KEGG	Cell cycle
+ACD	Reactome	Cell cycle
+ACD	Reactome	Senescence
+ACD	Reactome	Telomeres
+ACIN1	Reactome	Apoptosis
+ACTR1A	Reactome	Cell cycle
+ADD1	Reactome	Apoptosis
+AGO1	Reactome	Senescence
+AGO3	Reactome	Senescence
+AGO4	Reactome	Senescence
+AHCTF1	Reactome	Cell cycle
+AIFM1	KEGG	Apoptosis
+AJUBA	Reactome	Cell cycle
+AKAP9	Reactome	Cell cycle
+AKT1	KEGG & Reactome	Apoptosis
+AKT2	KEGG & Reactome	Apoptosis
+AKT3	KEGG & Reactome	Apoptosis
+ALMS1	Reactome	Cell cycle
+ANAPC1	KEGG & Reactome	Cell cycle
+ANAPC1	Reactome	Senescence
+ANAPC10	KEGG & Reactome	Cell cycle
+ANAPC10	Reactome	Senescence
+ANAPC11	KEGG & Reactome	Cell cycle
+ANAPC11	Reactome	Senescence
+ANAPC13	KEGG	Cell cycle
+ANAPC15	Reactome	Cell cycle
+ANAPC15	Reactome	Senescence
+ANAPC16	Reactome	Cell cycle
+ANAPC16	Reactome	Senescence
+ANAPC2	KEGG & Reactome	Cell cycle
+ANAPC2	Reactome	Senescence
+ANAPC4	KEGG & Reactome	Cell cycle
+ANAPC4	Reactome	Senescence
+ANAPC5	KEGG & Reactome	Cell cycle
+ANAPC5	Reactome	Senescence
+ANAPC7	KEGG & Reactome	Cell cycle
+ANAPC7	Reactome	Senescence
+ANKLE2	Reactome	Cell cycle
+APAF1	KEGG & Reactome	Apoptosis
+APC	Reactome	Apoptosis
+APEX1	Reactome	Cell cycle
+APEX1	Reactome	DNA Replication
+APEX1	Reactome	Telomeres
+APITD1	Reactome	Cell cycle
+APPL1	Reactome	Apoptosis
+ARHGAP10	Reactome	Apoptosis
+ARPP19	Reactome	Cell cycle
+ASF1A	Reactome	Senescence
+ATM	DDRProt	DDR
+ATM	KEGG	Apoptosis
+ATM	KEGG & Reactome	Cell cycle
+ATM	Reactome	Senescence
+ATR	DDRProt	DDR
+ATR	KEGG & Reactome	Cell cycle
+ATRIP	DDRProt	DDR
+ATRIP	Reactome	Cell cycle
+AURKA	Reactome	Cell cycle
+AURKB	Reactome	Cell cycle
+B9D2	Reactome	Cell cycle
+BABAM1	DDRProt	DDR
+BABAM1	Reactome	Cell cycle
+BAD	KEGG & Reactome	Apoptosis
+BAK1	Reactome	Apoptosis
+BANF1	Reactome	Cell cycle
+BARD1	DDRProt	DDR
+BARD1	Reactome	Cell cycle
+BAX	KEGG & Reactome	Apoptosis
+BBC3	Reactome	Apoptosis
+BCAP31	Reactome	Apoptosis
+BCL2	KEGG & Reactome	Apoptosis
+BCL2L1	KEGG & Reactome	Apoptosis
+BCL2L11	Reactome	Apoptosis
+BID	KEGG & Reactome	Apoptosis
+BIRC2	KEGG & Reactome	Apoptosis
+BIRC2	Reactome	Necrosis
+BIRC3	KEGG	Apoptosis
+BIRC3	Reactome	Necrosis
+BIRC5	Reactome	Cell cycle
+BIRC7	KEGG	Apoptosis
+BIRC8	KEGG	Apoptosis
+BLM	DDRProt	DDR
+BLM	Reactome	Cell cycle
+BLZF1	Reactome	Cell cycle
+BMF	Reactome	Apoptosis
+BMI1	Reactome	Senescence
+BMX	Reactome	Apoptosis
+BORA	Reactome	Cell cycle
+BRCA1	DDRProt	DDR
+BRCA1	Reactome	Cell cycle
+BRCA2	DDRProt	DDR
+BRCA2	Reactome	Cell cycle
+BRCC3	DDRProt	DDR
+BRCC3	Reactome	Cell cycle
+BRE	DDRProt	DDR
+BRE	Reactome	Cell cycle
+BTRC	DDRProt	DDR
+BTRC	Reactome	Cell cycle
+BUB1	KEGG & Reactome	Cell cycle
+BUB1B	KEGG & Reactome	Cell cycle
+BUB3	KEGG & Reactome	Cell cycle
+CABIN1	Reactome	Senescence
+CAPN1	KEGG	Apoptosis
+CAPN2	KEGG	Apoptosis
+CASC5	Reactome	Cell cycle
+CASP10	KEGG	Apoptosis
+CASP12	KEGG	Apoptosis
+CASP3	KEGG & Reactome	Apoptosis
+CASP6	KEGG & Reactome	Apoptosis
+CASP7	KEGG & Reactome	Apoptosis
+CASP8	KEGG & Reactome	Apoptosis
+CASP8	Reactome	Necrosis
+CASP9	KEGG & Reactome	Apoptosis
+CBX2	Reactome	Senescence
+CBX4	Reactome	Senescence
+CBX6	Reactome	Senescence
+CBX8	Reactome	Senescence
+CCNA1	KEGG & Reactome	Cell cycle
+CCNA1	Reactome	DNA Replication
+CCNA1	Reactome	Senescence
+CCNA2	KEGG & Reactome	Cell cycle
+CCNA2	Reactome	DNA Replication
+CCNA2	Reactome	Senescence
+CCNB1	KEGG & Reactome	Cell cycle
+CCNB2	KEGG & Reactome	Cell cycle
+CCNB3	KEGG	Cell cycle
+CCND1	KEGG & Reactome	Cell cycle
+CCND2	KEGG & Reactome	Cell cycle
+CCND3	KEGG & Reactome	Cell cycle
+CCNE1	KEGG & Reactome	Cell cycle
+CCNE1	Reactome	Senescence
+CCNE2	KEGG & Reactome	Cell cycle
+CCNE2	Reactome	Senescence
+CCNH	KEGG & Reactome	Cell cycle
+CCP110	Reactome	Cell cycle
+CD14	Reactome	Apoptosis
+CDC14A	KEGG & Reactome	Cell cycle
+CDC14B	KEGG	Cell cycle
+CDC16	KEGG & Reactome	Cell cycle
+CDC16	Reactome	Senescence
+CDC20	KEGG & Reactome	Cell cycle
+CDC23	KEGG & Reactome	Cell cycle
+CDC23	Reactome	Senescence
+CDC25A	DDRProt	DDR
+CDC25A	KEGG & Reactome	Cell cycle
+CDC25B	KEGG & Reactome	Cell cycle
+CDC25C	DDRProt	DDR
+CDC25C	KEGG & Reactome	Cell cycle
+CDC26	KEGG & Reactome	Cell cycle
+CDC26	Reactome	Senescence
+CDC27	KEGG & Reactome	Cell cycle
+CDC27	Reactome	Senescence
+CDC45	KEGG & Reactome	Cell cycle
+CDC45	Reactome	DNA Replication
+CDC6	KEGG & Reactome	Cell cycle
+CDC6	Reactome	DNA Replication
+CDC7	KEGG & Reactome	Cell cycle
+CDC7	Reactome	DNA Replication
+CDCA5	Reactome	Cell cycle
+CDCA8	Reactome	Cell cycle
+CDH1	Reactome	Apoptosis
+CDK1	KEGG & Reactome	Cell cycle
+CDK11A	Reactome	Cell cycle
+CDK11B	Reactome	Cell cycle
+CDK2	KEGG & Reactome	Cell cycle
+CDK2	Reactome	DNA Replication
+CDK2	Reactome	Senescence
+CDK4	KEGG & Reactome	Cell cycle
+CDK4	Reactome	Senescence
+CDK5RAP2	Reactome	Cell cycle
+CDK6	KEGG & Reactome	Cell cycle
+CDK6	Reactome	Senescence
+CDK7	KEGG & Reactome	Cell cycle
+CDKN1A	KEGG & Reactome	Cell cycle
+CDKN1A	Reactome	DNA Replication
+CDKN1A	Reactome	Senescence
+CDKN1B	KEGG & Reactome	Cell cycle
+CDKN1B	Reactome	DNA Replication
+CDKN1B	Reactome	Senescence
+CDKN1C	KEGG	Cell cycle
+CDKN2A	KEGG & Reactome	Cell cycle
+CDKN2A	Reactome	Senescence
+CDKN2A	Reactome	Senescence
+CDKN2B	KEGG & Reactome	Cell cycle
+CDKN2B	Reactome	Senescence
+CDKN2C	KEGG & Reactome	Cell cycle
+CDKN2C	Reactome	Senescence
+CDKN2D	KEGG & Reactome	Cell cycle
+CDKN2D	Reactome	Senescence
+CDT1	DDRProt	DDR
+CDT1	Reactome	Cell cycle
+CDT1	Reactome	DNA Replication
+CEBPB	Reactome	Senescence
+CENPA	Reactome	Cell cycle
+CENPC	Reactome	Cell cycle
+CENPE	Reactome	Cell cycle
+CENPF	Reactome	Cell cycle
+CENPH	Reactome	Cell cycle
+CENPI	Reactome	Cell cycle
+CENPJ	Reactome	Cell cycle
+CENPK	Reactome	Cell cycle
+CENPL	Reactome	Cell cycle
+CENPM	Reactome	Cell cycle
+CENPN	Reactome	Cell cycle
+CENPO	Reactome	Cell cycle
+CENPP	Reactome	Cell cycle
+CENPQ	Reactome	Cell cycle
+CENPT	Reactome	Cell cycle
+CENPU	Reactome	Cell cycle
+CENPW	Reactome	Cell cycle
+CEP131	Reactome	Cell cycle
+CEP135	Reactome	Cell cycle
+CEP152	Reactome	Cell cycle
+CEP164	Reactome	Cell cycle
+CEP192	Reactome	Cell cycle
+CEP250	Reactome	Cell cycle
+CEP290	Reactome	Cell cycle
+CEP41	Reactome	Cell cycle
+CEP57	Reactome	Cell cycle
+CEP63	Reactome	Cell cycle
+CEP70	Reactome	Cell cycle
+CEP72	Reactome	Cell cycle
+CEP76	Reactome	Cell cycle
+CEP78	Reactome	Cell cycle
+CETN2	Reactome	Cell cycle
+CFLAR	KEGG & Reactome	Apoptosis
+CFLAR	Reactome	Necrosis
+CHEK1	DDRProt	DDR
+CHEK1	KEGG & Reactome	Cell cycle
+CHEK2	DDRProt	DDR
+CHEK2	KEGG & Reactome	Cell cycle
+CHUK	KEGG	Apoptosis
+CKAP5	Reactome	Cell cycle
+CKS1B	Reactome	Cell cycle
+CLASP1	Reactome	Cell cycle
+CLASP2	Reactome	Cell cycle
+CLIP1	Reactome	Cell cycle
+CLSPN	DDRProt	DDR
+CLSPN	Reactome	Apoptosis
+CLSPN	Reactome	Cell cycle
+CNEP1R1	Reactome	Cell cycle
+CNTRL	Reactome	Cell cycle
+CREBBP	KEGG	Cell cycle
+CRMA	Reactome	Necrosis
+CSF2RB	KEGG	Apoptosis
+CSNK1D	Reactome	Cell cycle
+CSNK1E	Reactome	Cell cycle
+CSNK2A1	Reactome	Cell cycle
+CSNK2A2	Reactome	Cell cycle
+CSNK2B	Reactome	Cell cycle
+CTDNEP1	Reactome	Cell cycle
+CTNNB1	Reactome	Apoptosis
+CUL1	DDRProt	DDR
+CUL1	KEGG & Reactome	Cell cycle
+CUL4A	DDRProt	DDR
+CXCL8	Reactome	Senescence
+CYCS	KEGG & Reactome	Apoptosis
+DAPK1	Reactome	Apoptosis
+DAPK2	Reactome	Apoptosis
+DAPK3	Reactome	Apoptosis
+DBF4	KEGG & Reactome	Cell cycle
+DBF4	Reactome	DNA Replication
+DBNL	Reactome	Apoptosis
+DCC	Reactome	Apoptosis
+DCLRE1B	DDRProt	DDR
+DCLRE1C	DDRProt	DDR
+DCTN1	Reactome	Cell cycle
+DCTN2	Reactome	Cell cycle
+DCTN3	Reactome	Cell cycle
+DDB1	DDRProt	DDR
+DFFA	KEGG & Reactome	Apoptosis
+DFFB	KEGG & Reactome	Apoptosis
+DHFR	Reactome	Cell cycle
+DIABLO	Reactome	Apoptosis
+DIDO1	Reactome	Cell cycle
+DKC1	Reactome	Cell cycle
+DKC1	Reactome	Telomeres
+DMC1	Reactome	Cell cycle
+DNA2	DDRProt	DDR
+DNA2	Reactome	Cell cycle
+DNA2	Reactome	DNA Replication
+DNA2	Reactome	Telomeres
+DNM1L	Reactome	Apoptosis
+DSG1	Reactome	Apoptosis
+DSG2	Reactome	Apoptosis
+DSG3	Reactome	Apoptosis
+DSN1	Reactome	Cell cycle
+DSP	Reactome	Apoptosis
+DTL	DDRProt	DDR
+DYNC1H1	Reactome	Cell cycle
+DYNC1I2	Reactome	Cell cycle
+DYNLL1	Reactome	Apoptosis
+DYNLL1	Reactome	Cell cycle
+DYNLL2	Reactome	Apoptosis
+DYRK1A	Reactome	Cell cycle
+E2F1	KEGG & Reactome	Cell cycle
+E2F1	Reactome	Apoptosis
+E2F1	Reactome	DNA Replication
+E2F1	Reactome	Senescence
+E2F2	KEGG & Reactome	Cell cycle
+E2F2	Reactome	DNA Replication
+E2F2	Reactome	Senescence
+E2F3	KEGG & Reactome	Cell cycle
+E2F3	Reactome	DNA Replication
+E2F3	Reactome	Senescence
+E2F4	KEGG & Reactome	Cell cycle
+E2F5	KEGG & Reactome	Cell cycle
+EED	Reactome	Senescence
+EHMT1	Reactome	Senescence
+EHMT2	Reactome	Senescence
+EMD	Reactome	Cell cycle
+EME1	DDRProt	DDR
+ENDOG	KEGG	Apoptosis
+ENSA	Reactome	Cell cycle
+EP300	KEGG & Reactome	Cell cycle
+EP400	Reactome	Senescence
+ERCC1	DDRProt	DDR
+ERCC2	DDRProt	DDR
+ERCC3	DDRProt	DDR
+ERCC4	DDRProt	DDR
+ERCC5	DDRProt	DDR
+ERCC6	DDRProt	DDR
+ERCC6L	Reactome	Cell cycle
+ERCC8	DDRProt	DDR
+ERF	Reactome	Senescence
+ESCO1	Reactome	Cell cycle
+ESCO2	Reactome	Cell cycle
+ESPL1	KEGG & Reactome	Cell cycle
+ETS1	Reactome	Senescence
+ETS2	Reactome	Senescence
+EXO1	DDRProt	DDR
+EZH2	Reactome	Senescence
+FADD	KEGG & Reactome	Apoptosis
+FADD	Reactome	Necrosis
+FAM175A	DDRProt	DDR
+FAM175A	Reactome	Cell cycle
+FANCD2	DDRProt	DDR
+FANCM	DDRProt	DDR
+FAS	KEGG & Reactome	Apoptosis
+FAS	Reactome	Necrosis
+FASLG	KEGG & Reactome	Apoptosis
+FASLG	Reactome	Necrosis
+FBXO31	DDRProt	DDR
+FBXO5	Reactome	Cell cycle
+FBXW11	Reactome	Cell cycle
+FEN1	Reactome	Cell cycle
+FEN1	Reactome	DNA Replication
+FEN1	Reactome	Telomeres
+FGFR1OP	Reactome	Cell cycle
+FKBP6	Reactome	Cell cycle
+FNTA	Reactome	Apoptosis
+FOS	Reactome	Senescence
+FOXM1	Reactome	Cell cycle
+FZR1	KEGG & Reactome	Cell cycle
+FZR1	Reactome	DNA Replication
+FZR1	Reactome	Senescence
+GADD45A	KEGG	Cell cycle
+GADD45B	KEGG	Cell cycle
+GADD45G	KEGG	Cell cycle
+GAS2	Reactome	Apoptosis
+GINS1	Reactome	Cell cycle
+GINS1	Reactome	DNA Replication
+GINS2	Reactome	Cell cycle
+GINS2	Reactome	DNA Replication
+GINS3	Reactome	Cell cycle
+GINS3	Reactome	DNA Replication
+GINS4	Reactome	Cell cycle
+GINS4	Reactome	DNA Replication
+GMNN	Reactome	Cell cycle
+GMNN	Reactome	DNA Replication
+GOLGA2	Reactome	Cell cycle
+GORASP1	Reactome	Cell cycle
+GORASP2	Reactome	Cell cycle
+GSK3B	KEGG	Cell cycle
+GSN	Reactome	Apoptosis
+GZMB	Reactome	Apoptosis
+H1F0	Reactome	Apoptosis
+H1F0	Reactome	Senescence
+H2AFB1	Reactome	Cell cycle
+H2AFB1	Reactome	Senescence
+H2AFB1	Reactome	Telomeres
+H2AFX	DDRProt	DDR
+H2AFX	Reactome	Cell cycle
+H2AFX	Reactome	Senescence
+H2AFX	Reactome	Telomeres
+H2AFZ	Reactome	Cell cycle
+H2AFZ	Reactome	Senescence
+H2AFZ	Reactome	Telomeres
+H2BFS	Reactome	Cell cycle
+H2BFS	Reactome	Senescence
+H2BFS	Reactome	Telomeres
+H3F3A	Reactome	Cell cycle
+H3F3A	Reactome	Senescence
+HAUS2	Reactome	Cell cycle
+HDAC1	KEGG & Reactome	Cell cycle
+HDAC2	KEGG	Cell cycle
+HDAC8	Reactome	Cell cycle
+HERC2	DDRProt	DDR
+HERC2	Reactome	Cell cycle
+HIRA	Reactome	Senescence
+HIST1H1A	Reactome	Apoptosis
+HIST1H1A	Reactome	Senescence
+HIST1H1B	Reactome	Apoptosis
+HIST1H1B	Reactome	Senescence
+HIST1H1C	Reactome	Apoptosis
+HIST1H1C	Reactome	Senescence
+HIST1H1D	Reactome	Apoptosis
+HIST1H1D	Reactome	Senescence
+HIST1H1E	Reactome	Apoptosis
+HIST1H1E	Reactome	Senescence
+HIST1H2AB	Reactome	Cell cycle
+HIST1H2AB	Reactome	Senescence
+HIST1H2AB	Reactome	Telomeres
+HIST1H2AC	Reactome	Cell cycle
+HIST1H2AC	Reactome	Senescence
+HIST1H2AC	Reactome	Telomeres
+HIST1H2AD	Reactome	Cell cycle
+HIST1H2AD	Reactome	Senescence
+HIST1H2AD	Reactome	Telomeres
+HIST1H2AJ	Reactome	Cell cycle
+HIST1H2AJ	Reactome	Senescence
+HIST1H2AJ	Reactome	Telomeres
+HIST1H2BA	Reactome	Cell cycle
+HIST1H2BA	Reactome	Senescence
+HIST1H2BA	Reactome	Telomeres
+HIST1H2BB	Reactome	Cell cycle
+HIST1H2BB	Reactome	Senescence
+HIST1H2BB	Reactome	Telomeres
+HIST1H2BC	Reactome	Cell cycle
+HIST1H2BC	Reactome	Senescence
+HIST1H2BC	Reactome	Telomeres
+HIST1H2BD	Reactome	Cell cycle
+HIST1H2BD	Reactome	Senescence
+HIST1H2BD	Reactome	Telomeres
+HIST1H2BH	Reactome	Cell cycle
+HIST1H2BH	Reactome	Senescence
+HIST1H2BH	Reactome	Telomeres
+HIST1H2BJ	Reactome	Cell cycle
+HIST1H2BJ	Reactome	Senescence
+HIST1H2BJ	Reactome	Telomeres
+HIST1H2BK	Reactome	Cell cycle
+HIST1H2BK	Reactome	Senescence
+HIST1H2BK	Reactome	Telomeres
+HIST1H2BL	Reactome	Cell cycle
+HIST1H2BL	Reactome	Senescence
+HIST1H2BL	Reactome	Telomeres
+HIST1H2BM	Reactome	Cell cycle
+HIST1H2BM	Reactome	Senescence
+HIST1H2BM	Reactome	Telomeres
+HIST1H2BN	Reactome	Cell cycle
+HIST1H2BN	Reactome	Senescence
+HIST1H2BN	Reactome	Telomeres
+HIST1H2BO	Reactome	Cell cycle
+HIST1H2BO	Reactome	Senescence
+HIST1H2BO	Reactome	Telomeres
+HIST1H3A	Reactome	Cell cycle
+HIST1H3A	Reactome	Senescence
+HIST1H4A	Reactome	Cell cycle
+HIST1H4A	Reactome	Senescence
+HIST1H4A	Reactome	Telomeres
+HIST2H2AA3	Reactome	Cell cycle
+HIST2H2AA3	Reactome	Senescence
+HIST2H2AA3	Reactome	Telomeres
+HIST2H2AC	Reactome	Cell cycle
+HIST2H2AC	Reactome	Senescence
+HIST2H2AC	Reactome	Telomeres
+HIST2H2BE	Reactome	Cell cycle
+HIST2H2BE	Reactome	Senescence
+HIST2H2BE	Reactome	Telomeres
+HIST2H3A	Reactome	Cell cycle
+HIST2H3A	Reactome	Senescence
+HIST3H2BB	Reactome	Cell cycle
+HIST3H2BB	Reactome	Senescence
+HIST3H2BB	Reactome	Telomeres
+HIST3H3	Reactome	Cell cycle
+HIST3H3	Reactome	Senescence
+HIST3H3	Reactome	Telomeres
+HJURP	Reactome	Cell cycle
+HMGA1	Reactome	Senescence
+HMGA2	Reactome	Senescence
+HMGB1	Reactome	Apoptosis
+HMGB2	Reactome	Apoptosis
+HNRNPK	DDRProt	DDR
+HSP90AA1	Reactome	Cell cycle
+HSPA2	Reactome	Cell cycle
+HUS1	DDRProt	DDR
+HUS1	Reactome	Cell cycle
+ID1	Reactome	Senescence
+IFNB1	Reactome	Senescence
+IGFBP7	Reactome	Senescence
+IKBKB	KEGG	Apoptosis
+IKBKG	KEGG	Apoptosis
+IL1A	KEGG	Apoptosis
+IL1A	Reactome	Senescence
+IL1B	KEGG	Apoptosis
+IL1R1	KEGG	Apoptosis
+IL1RAP	KEGG	Apoptosis
+IL3	KEGG	Apoptosis
+IL3RA	KEGG	Apoptosis
+IL6	Reactome	Senescence
+INCENP	Reactome	Cell cycle
+IRAK1	KEGG	Apoptosis
+IRAK2	KEGG	Apoptosis
+IRAK3	KEGG	Apoptosis
+IRAK4	KEGG	Apoptosis
+ITGB3BP	Reactome	Cell cycle
+JUN	Reactome	Senescence
+KAT5	DDRProt	DDR
+KAT5	Reactome	Cell cycle
+KAT5	Reactome	Senescence
+KAT8	DDRProt	DDR
+KDM6B	Reactome	Senescence
+KIF18A	Reactome	Cell cycle
+KIF20A	Reactome	Cell cycle
+KIF23	Reactome	Cell cycle
+KIF2A	Reactome	Cell cycle
+KIF2B	Reactome	Cell cycle
+KIF2C	Reactome	Cell cycle
+KNTC1	Reactome	Cell cycle
+KPNA1	Reactome	Apoptosis
+KPNB1	Reactome	Apoptosis
+LEMD2	Reactome	Cell cycle
+LEMD3	Reactome	Cell cycle
+LIG1	Reactome	Cell cycle
+LIG1	Reactome	DNA Replication
+LIG1	Reactome	Telomeres
+LIG4	DDRProt	DDR
+LIN37	Reactome	Cell cycle
+LIN52	Reactome	Cell cycle
+LIN54	Reactome	Cell cycle
+LIN9	Reactome	Cell cycle
+LMNA	Reactome	Apoptosis
+LMNA	Reactome	Cell cycle
+LMNB1	Reactome	Apoptosis
+LMNB1	Reactome	Cell cycle
+LMNB1	Reactome	Senescence
+LPIN1	Reactome	Cell cycle
+LPIN2	Reactome	Cell cycle
+LPIN3	Reactome	Cell cycle
+LY96	Reactome	Apoptosis
+MAD1L1	KEGG & Reactome	Cell cycle
+MAD2L1	KEGG & Reactome	Cell cycle
+MAD2L2	KEGG	Cell cycle
+MAGED1	Reactome	Apoptosis
+MAP2K3	Reactome	Senescence
+MAP2K4	Reactome	Senescence
+MAP2K6	Reactome	Senescence
+MAP2K7	Reactome	Senescence
+MAP3K14	KEGG	Apoptosis
+MAP3K5	Reactome	Senescence
+MAP4K4	Reactome	Senescence
+MAPK1	Reactome	Cell cycle
+MAPK1	Reactome	Senescence
+MAPK10	Reactome	Senescence
+MAPK11	Reactome	Senescence
+MAPK14	Reactome	Senescence
+MAPK3	DDRProt	DDR
+MAPK3	Reactome	Cell cycle
+MAPK3	Reactome	Senescence
+MAPK7	Reactome	Senescence
+MAPK8	Reactome	Apoptosis
+MAPK8	Reactome	Senescence
+MAPK9	Reactome	Senescence
+MAPKAPK2	DDRProt	DDR
+MAPKAPK2	Reactome	Senescence
+MAPKAPK3	Reactome	Senescence
+MAPKAPK5	Reactome	Senescence
+MAPRE1	Reactome	Cell cycle
+MAPT	Reactome	Apoptosis
+MASTL	Reactome	Cell cycle
+MAU2	Reactome	Cell cycle
+MAX	Reactome	Cell cycle
+MCM10	Reactome	Cell cycle
+MCM10	Reactome	DNA Replication
+MCM2	KEGG & Reactome	Cell cycle
+MCM2	Reactome	DNA Replication
+MCM3	KEGG & Reactome	Cell cycle
+MCM3	Reactome	DNA Replication
+MCM4	KEGG & Reactome	Cell cycle
+MCM4	Reactome	DNA Replication
+MCM5	KEGG & Reactome	Cell cycle
+MCM5	Reactome	DNA Replication
+MCM6	KEGG & Reactome	Cell cycle
+MCM6	Reactome	DNA Replication
+MCM7	KEGG & Reactome	Cell cycle
+MCM7	Reactome	DNA Replication
+MCM8	Reactome	Cell cycle
+MCM8	Reactome	DNA Replication
+MCPH1	Reactome	Cell cycle
+MDC1	DDRProt	DDR
+MDC1	Reactome	Cell cycle
+MDM2	DDRProt	DDR
+MDM2	KEGG & Reactome	Cell cycle
+MDM2	Reactome	Senescence
+MDM4	DDRProt	DDR
+MINK1	Reactome	Senescence
+MIS12	Reactome	Cell cycle
+MIS18A	Reactome	Cell cycle
+MIS18BP1	Reactome	Cell cycle
+MLH1	DDRProt	DDR
+MLH1	Reactome	Cell cycle
+MLH3	Reactome	Cell cycle
+MLKL	Reactome	Necrosis
+MNAT1	Reactome	Cell cycle
+MND1	Reactome	Cell cycle
+MOV10	Reactome	Senescence
+MRE11A	DDRProt	DDR
+MRE11A	Reactome	Cell cycle
+MRE11A	Reactome	Senescence
+MSH2	DDRProt	DDR
+MSH3	DDRProt	DDR
+MSH4	Reactome	Cell cycle
+MSH5	Reactome	Cell cycle
+MSH6	DDRProt	DDR
+MTA2	DDRProt	DDR
+MUS81	DDRProt	DDR
+MYBL2	Reactome	Cell cycle
+MYC	KEGG & Reactome	Cell cycle
+MYD88	KEGG	Apoptosis
+NBN	DDRProt	DDR
+NBN	Reactome	Cell cycle
+NBN	Reactome	Senescence
+NCAPD2	Reactome	Cell cycle
+NCAPD3	Reactome	Cell cycle
+NCAPG	Reactome	Cell cycle
+NCAPG2	Reactome	Cell cycle
+NCAPH	Reactome	Cell cycle
+NCAPH2	Reactome	Cell cycle
+NDC1	Reactome	Cell cycle
+NDC80	Reactome	Cell cycle
+NDE1	Reactome	Cell cycle
+NDEL1	Reactome	Cell cycle
+NEDD1	Reactome	Cell cycle
+NEK2	Reactome	Cell cycle
+NEK6	Reactome	Cell cycle
+NEK7	Reactome	Cell cycle
+NEK9	Reactome	Cell cycle
+NFKB1	KEGG	Apoptosis
+NFKB1	Reactome	Senescence
+NFKBIA	KEGG	Apoptosis
+NGF	KEGG	Apoptosis
+NHEJ1	DDRProt	DDR
+NHP2	Reactome	Cell cycle
+NHP2	Reactome	Telomeres
+NINL	Reactome	Cell cycle
+NIPBL	Reactome	Cell cycle
+NMT1	Reactome	Apoptosis
+NPM1	Reactome	Cell cycle
+NR4A2	DDRProt	DDR
+NSL1	Reactome	Cell cycle
+NSMCE2	DDRProt	DDR
+NTRK1	KEGG	Apoptosis
+NUDC	Reactome	Cell cycle
+NUF2	Reactome	Cell cycle
+NUMA1	Reactome	Cell cycle
+NUP107	Reactome	Cell cycle
+NUP133	Reactome	Cell cycle
+NUP153	Reactome	Cell cycle
+NUP155	Reactome	Cell cycle
+NUP160	Reactome	Cell cycle
+NUP188	Reactome	Cell cycle
+NUP205	Reactome	Cell cycle
+NUP210	Reactome	Cell cycle
+NUP214	Reactome	Cell cycle
+NUP35	Reactome	Cell cycle
+NUP37	Reactome	Cell cycle
+NUP43	Reactome	Cell cycle
+NUP50	Reactome	Cell cycle
+NUP54	Reactome	Cell cycle
+NUP62	Reactome	Cell cycle
+NUP85	Reactome	Cell cycle
+NUP88	Reactome	Cell cycle
+NUP93	Reactome	Cell cycle
+NUP98	Reactome	Cell cycle
+NUPL1	Reactome	Cell cycle
+NUPL2	Reactome	Cell cycle
+OCLN	Reactome	Apoptosis
+ODF2	Reactome	Cell cycle
+OFD1	Reactome	Cell cycle
+OIP5	Reactome	Cell cycle
+OPTN	Reactome	Cell cycle
+ORC1	KEGG & Reactome	Cell cycle
+ORC1	Reactome	DNA Replication
+ORC2	KEGG & Reactome	Cell cycle
+ORC2	Reactome	DNA Replication
+ORC3	KEGG & Reactome	Cell cycle
+ORC3	Reactome	DNA Replication
+ORC4	KEGG & Reactome	Cell cycle
+ORC4	Reactome	DNA Replication
+ORC5	KEGG & Reactome	Cell cycle
+ORC5	Reactome	DNA Replication
+ORC6	KEGG & Reactome	Cell cycle
+ORC6	Reactome	DNA Replication
+PAFAH1B1	Reactome	Cell cycle
+PAK2	Reactome	Apoptosis
+PALB2	DDRProt	DDR
+PARP1	DDRProt	DDR
+PARP2	DDRProt	DDR
+PAXIP1	DDRProt	DDR
+PCM1	Reactome	Cell cycle
+PCNA	DDRProt	DDR
+PCNA	KEGG & Reactome	Cell cycle
+PCNA	Reactome	DNA Replication
+PCNA	Reactome	Telomeres
+PCNT	Reactome	Cell cycle
+PDS5A	Reactome	Cell cycle
+PDS5B	Reactome	Cell cycle
+PHC1	Reactome	Senescence
+PHC2	Reactome	Senescence
+PHC3	Reactome	Senescence
+PHF8	Reactome	Cell cycle
+PIAS1	DDRProt	DDR
+PIAS4	DDRProt	DDR
+PIAS4	Reactome	Cell cycle
+PIK3CA	KEGG	Apoptosis
+PIK3CB	KEGG	Apoptosis
+PIK3CD	KEGG	Apoptosis
+PIK3CG	KEGG	Apoptosis
+PIK3R1	KEGG	Apoptosis
+PIK3R2	KEGG	Apoptosis
+PIK3R3	KEGG	Apoptosis
+PIK3R5	KEGG	Apoptosis
+PKMYT1	KEGG & Reactome	Cell cycle
+PKP1	Reactome	Apoptosis
+PLEC	Reactome	Apoptosis
+PLK1	DDRProt	DDR
+PLK1	KEGG & Reactome	Cell cycle
+PLK4	Reactome	Cell cycle
+PMAIP1	Reactome	Apoptosis
+PMF1	Reactome	Cell cycle
+PMS2	DDRProt	DDR
+POLA1	Reactome	Cell cycle
+POLA1	Reactome	DNA Replication
+POLA1	Reactome	Telomeres
+POLA2	Reactome	Cell cycle
+POLA2	Reactome	DNA Replication
+POLA2	Reactome	Telomeres
+POLD1	Reactome	Cell cycle
+POLD1	Reactome	DNA Replication
+POLD1	Reactome	Telomeres
+POLD2	Reactome	Cell cycle
+POLD2	Reactome	DNA Replication
+POLD2	Reactome	Telomeres
+POLD3	Reactome	Cell cycle
+POLD3	Reactome	DNA Replication
+POLD3	Reactome	Telomeres
+POLD4	Reactome	Cell cycle
+POLD4	Reactome	DNA Replication
+POLD4	Reactome	Telomeres
+POLE	Reactome	Cell cycle
+POLE	Reactome	DNA Replication
+POLE	Reactome	Telomeres
+POLE2	Reactome	Cell cycle
+POLE2	Reactome	DNA Replication
+POLE2	Reactome	Telomeres
+POM121	Reactome	Cell cycle
+POM121C	Reactome	Cell cycle
+POT1	Reactome	Cell cycle
+POT1	Reactome	Senescence
+POT1	Reactome	Telomeres
+PPP1CB	Reactome	Cell cycle
+PPP1CC	Reactome	Cell cycle
+PPP1R12A	Reactome	Cell cycle
+PPP1R12B	Reactome	Cell cycle
+PPP2CA	Reactome	Cell cycle
+PPP2CB	Reactome	Cell cycle
+PPP2R1A	Reactome	Cell cycle
+PPP2R1B	Reactome	Cell cycle
+PPP2R2A	Reactome	Cell cycle
+PPP2R2D	Reactome	Cell cycle
+PPP2R3B	Reactome	Cell cycle
+PPP2R5A	Reactome	Cell cycle
+PPP2R5B	Reactome	Cell cycle
+PPP2R5C	Reactome	Cell cycle
+PPP2R5D	Reactome	Cell cycle
+PPP2R5E	Reactome	Cell cycle
+PPP3CA	KEGG	Apoptosis
+PPP3CB	KEGG	Apoptosis
+PPP3CC	KEGG & Reactome	Apoptosis
+PPP3R1	KEGG & Reactome	Apoptosis
+PPP3R2	KEGG	Apoptosis
+PRDM9	Reactome	Cell cycle
+PRIM1	Reactome	Cell cycle
+PRIM1	Reactome	DNA Replication
+PRIM1	Reactome	Telomeres
+PRIM2	Reactome	Cell cycle
+PRIM2	Reactome	DNA Replication
+PRIM2	Reactome	Telomeres
+PRKACA	KEGG	Apoptosis
+PRKACA	Reactome	Cell cycle
+PRKACB	KEGG	Apoptosis
+PRKACG	KEGG	Apoptosis
+PRKAR1A	KEGG	Apoptosis
+PRKAR1B	KEGG	Apoptosis
+PRKAR2A	KEGG	Apoptosis
+PRKAR2B	KEGG	Apoptosis
+PRKAR2B	Reactome	Cell cycle
+PRKCA	Reactome	Cell cycle
+PRKCB	Reactome	Cell cycle
+PRKCD	Reactome	Apoptosis
+PRKCQ	Reactome	Apoptosis
+PRKDC	DDRProt	DDR
+PRKDC	KEGG	Cell cycle
+PSMA1	Reactome	Apoptosis
+PSMA1	Reactome	Cell cycle
+PSMA1	Reactome	DNA Replication
+PSMA2	Reactome	Apoptosis
+PSMA2	Reactome	Cell cycle
+PSMA2	Reactome	DNA Replication
+PSMA3	Reactome	Apoptosis
+PSMA3	Reactome	Cell cycle
+PSMA3	Reactome	DNA Replication
+PSMA4	Reactome	Apoptosis
+PSMA4	Reactome	Cell cycle
+PSMA4	Reactome	DNA Replication
+PSMA5	Reactome	Apoptosis
+PSMA5	Reactome	Cell cycle
+PSMA5	Reactome	DNA Replication
+PSMA6	Reactome	Apoptosis
+PSMA6	Reactome	Cell cycle
+PSMA6	Reactome	DNA Replication
+PSMA7	Reactome	Apoptosis
+PSMA7	Reactome	Cell cycle
+PSMA7	Reactome	DNA Replication
+PSMA8	Reactome	Apoptosis
+PSMA8	Reactome	Cell cycle
+PSMA8	Reactome	DNA Replication
+PSMB1	Reactome	Apoptosis
+PSMB1	Reactome	Cell cycle
+PSMB1	Reactome	DNA Replication
+PSMB10	Reactome	Apoptosis
+PSMB10	Reactome	Cell cycle
+PSMB10	Reactome	DNA Replication
+PSMB11	Reactome	Apoptosis
+PSMB11	Reactome	Cell cycle
+PSMB11	Reactome	DNA Replication
+PSMB2	Reactome	Apoptosis
+PSMB2	Reactome	Cell cycle
+PSMB2	Reactome	DNA Replication
+PSMB3	Reactome	Apoptosis
+PSMB3	Reactome	Cell cycle
+PSMB3	Reactome	DNA Replication
+PSMB4	Reactome	Apoptosis
+PSMB4	Reactome	Cell cycle
+PSMB4	Reactome	DNA Replication
+PSMB5	Reactome	Apoptosis
+PSMB5	Reactome	Cell cycle
+PSMB5	Reactome	DNA Replication
+PSMB6	Reactome	Apoptosis
+PSMB6	Reactome	Cell cycle
+PSMB6	Reactome	DNA Replication
+PSMB7	Reactome	Apoptosis
+PSMB7	Reactome	Cell cycle
+PSMB7	Reactome	DNA Replication
+PSMB8	Reactome	Apoptosis
+PSMB8	Reactome	Cell cycle
+PSMB8	Reactome	DNA Replication
+PSMB9	Reactome	Apoptosis
+PSMB9	Reactome	Cell cycle
+PSMB9	Reactome	DNA Replication
+PSMC1	Reactome	Apoptosis
+PSMC1	Reactome	Cell cycle
+PSMC1	Reactome	DNA Replication
+PSMC2	Reactome	Apoptosis
+PSMC2	Reactome	Cell cycle
+PSMC2	Reactome	DNA Replication
+PSMC3	Reactome	Apoptosis
+PSMC3	Reactome	Cell cycle
+PSMC3	Reactome	DNA Replication
+PSMC3IP	Reactome	Cell cycle
+PSMC4	Reactome	Apoptosis
+PSMC4	Reactome	Cell cycle
+PSMC4	Reactome	DNA Replication
+PSMC5	Reactome	Apoptosis
+PSMC5	Reactome	Cell cycle
+PSMC5	Reactome	DNA Replication
+PSMC6	Reactome	Apoptosis
+PSMC6	Reactome	Cell cycle
+PSMC6	Reactome	DNA Replication
+PSMD1	Reactome	Apoptosis
+PSMD1	Reactome	Cell cycle
+PSMD1	Reactome	DNA Replication
+PSMD10	Reactome	Apoptosis
+PSMD10	Reactome	Cell cycle
+PSMD10	Reactome	DNA Replication
+PSMD11	Reactome	Apoptosis
+PSMD11	Reactome	Cell cycle
+PSMD11	Reactome	DNA Replication
+PSMD12	Reactome	Apoptosis
+PSMD12	Reactome	Cell cycle
+PSMD12	Reactome	DNA Replication
+PSMD13	Reactome	Apoptosis
+PSMD13	Reactome	Cell cycle
+PSMD13	Reactome	DNA Replication
+PSMD14	Reactome	Apoptosis
+PSMD14	Reactome	Cell cycle
+PSMD14	Reactome	DNA Replication
+PSMD2	Reactome	Apoptosis
+PSMD2	Reactome	Cell cycle
+PSMD2	Reactome	DNA Replication
+PSMD3	Reactome	Apoptosis
+PSMD3	Reactome	Cell cycle
+PSMD3	Reactome	DNA Replication
+PSMD4	Reactome	Apoptosis
+PSMD4	Reactome	Cell cycle
+PSMD4	Reactome	DNA Replication
+PSMD5	Reactome	Apoptosis
+PSMD5	Reactome	Cell cycle
+PSMD5	Reactome	DNA Replication
+PSMD6	Reactome	Apoptosis
+PSMD6	Reactome	Cell cycle
+PSMD6	Reactome	DNA Replication
+PSMD7	Reactome	Apoptosis
+PSMD7	Reactome	Cell cycle
+PSMD7	Reactome	DNA Replication
+PSMD8	Reactome	Apoptosis
+PSMD8	Reactome	Cell cycle
+PSMD8	Reactome	DNA Replication
+PSMD9	Reactome	Apoptosis
+PSMD9	Reactome	Cell cycle
+PSMD9	Reactome	DNA Replication
+PSME1	Reactome	Apoptosis
+PSME1	Reactome	Cell cycle
+PSME1	Reactome	DNA Replication
+PSME2	Reactome	Apoptosis
+PSME2	Reactome	Cell cycle
+PSME2	Reactome	DNA Replication
+PSME3	Reactome	Apoptosis
+PSME3	Reactome	Cell cycle
+PSME3	Reactome	DNA Replication
+PSME4	Reactome	Apoptosis
+PSME4	Reactome	Cell cycle
+PSME4	Reactome	DNA Replication
+PSMF1	Reactome	Apoptosis
+PSMF1	Reactome	Cell cycle
+PSMF1	Reactome	DNA Replication
+PTK2	Reactome	Apoptosis
+PTTG1	KEGG & Reactome	Cell cycle
+PTTG2	KEGG	Cell cycle
+RAB1A	Reactome	Cell cycle
+RAB1B	Reactome	Cell cycle
+RAB2A	Reactome	Cell cycle
+RAB8A	Reactome	Cell cycle
+RAD1	DDRProt	DDR
+RAD1	Reactome	Cell cycle
+RAD17	DDRProt	DDR
+RAD17	Reactome	Cell cycle
+RAD18	DDRProt	DDR
+RAD21	KEGG & Reactome	Cell cycle
+RAD23B	DDRProt	DDR
+RAD50	DDRProt	DDR
+RAD50	Reactome	Cell cycle
+RAD50	Reactome	Senescence
+RAD51	DDRProt	DDR
+RAD51	Reactome	Cell cycle
+RAD51C	Reactome	Cell cycle
+RAD9A	DDRProt	DDR
+RAD9A	Reactome	Cell cycle
+RAD9B	Reactome	Cell cycle
+RAE1	Reactome	Cell cycle
+RANBP2	Reactome	Cell cycle
+RANGAP1	Reactome	Cell cycle
+RB1	KEGG & Reactome	Cell cycle
+RB1	Reactome	DNA Replication
+RB1	Reactome	Senescence
+RBBP4	Reactome	Cell cycle
+RBBP4	Reactome	Senescence
+RBBP7	Reactome	Cell cycle
+RBBP7	Reactome	Senescence
+RBBP8	DDRProt	DDR
+RBBP8	Reactome	Cell cycle
+RBL1	KEGG & Reactome	Cell cycle
+RBL2	KEGG & Reactome	Cell cycle
+RBX1	DDRProt	DDR
+RBX1	KEGG	Cell cycle
+RCC2	Reactome	Cell cycle
+REC8	Reactome	Cell cycle
+RELA	KEGG	Apoptosis
+RELA	Reactome	Senescence
+RFC1	Reactome	Cell cycle
+RFC1	Reactome	DNA Replication
+RFC1	Reactome	Telomeres
+RFC2	Reactome	Cell cycle
+RFC2	Reactome	DNA Replication
+RFC2	Reactome	Telomeres
+RFC3	Reactome	Cell cycle
+RFC3	Reactome	DNA Replication
+RFC3	Reactome	Telomeres
+RFC4	Reactome	Cell cycle
+RFC4	Reactome	DNA Replication
+RFC4	Reactome	Telomeres
+RFC5	Reactome	Cell cycle
+RFC5	Reactome	DNA Replication
+RFC5	Reactome	Telomeres
+RFWD2	Reactome	Cell cycle
+RING1	Reactome	Senescence
+RIPK1	KEGG & Reactome	Apoptosis
+RIPK1	Reactome	Necrosis
+RIPK3	Reactome	Necrosis
+RMI1	DDRProt	DDR
+RNF168	DDRProt	DDR
+RNF168	Reactome	Cell cycle
+RNF2	Reactome	Senescence
+RNF8	DDRProt	DDR
+RNF8	Reactome	Cell cycle
+ROCK1	Reactome	Apoptosis
+RPA1	DDRProt	DDR
+RPA1	Reactome	Cell cycle
+RPA1	Reactome	DNA Replication
+RPA1	Reactome	Telomeres
+RPA2	DDRProt	DDR
+RPA2	Reactome	Cell cycle
+RPA2	Reactome	DNA Replication
+RPA2	Reactome	Telomeres
+RPA3	DDRProt	DDR
+RPA3	Reactome	Cell cycle
+RPA3	Reactome	DNA Replication
+RPA3	Reactome	Telomeres
+RPA4	Reactome	Cell cycle
+RPA4	Reactome	DNA Replication
+RPS27	Reactome	Cell cycle
+RPS27A	Reactome	Apoptosis
+RPS27A	Reactome	Cell cycle
+RPS27A	Reactome	DNA Replication
+RPS27A	Reactome	Necrosis
+RPS27A	Reactome	Senescence
+RPS6KA1	Reactome	Senescence
+RPS6KA2	Reactome	Senescence
+RPS6KA3	Reactome	Senescence
+RRM2	Reactome	Cell cycle
+RSF1	Reactome	Cell cycle
+RUVBL1	Reactome	Cell cycle
+RUVBL1	Reactome	Telomeres
+RUVBL2	Reactome	Cell cycle
+RUVBL2	Reactome	Telomeres
+SATB1	Reactome	Apoptosis
+SCMH1	Reactome	Senescence
+SDCCAG8	Reactome	Cell cycle
+SEC13	Reactome	Cell cycle
+SEH1L	Reactome	Cell cycle
+SET	Reactome	Cell cycle
+SETD8	Reactome	Cell cycle
+SFI1	Reactome	Cell cycle
+SFN	KEGG & Reactome	Cell cycle
+SFN	Reactome	Apoptosis
+SGOL1	Reactome	Cell cycle
+SGOL2	Reactome	Cell cycle
+SIRT1	DDRProt	DDR
+SKA1	Reactome	Cell cycle
+SKA2	Reactome	Cell cycle
+SKP1	DDRProt	DDR
+SKP1	KEGG & Reactome	Cell cycle
+SKP2	KEGG & Reactome	Cell cycle
+SLX1A	DDRProt	DDR
+SLX4	DDRProt	DDR
+SMAD2	KEGG	Cell cycle
+SMAD3	KEGG	Cell cycle
+SMAD4	KEGG	Cell cycle
+SMARCA5	Reactome	Cell cycle
+SMARCAL1	DDRProt	DDR
+SMC1A	DDRProt	DDR
+SMC1A	KEGG & Reactome	Cell cycle
+SMC1B	KEGG & Reactome	Cell cycle
+SMC2	Reactome	Cell cycle
+SMC3	KEGG & Reactome	Cell cycle
+SMC4	Reactome	Cell cycle
+SMC5	DDRProt	DDR
+SMC6	DDRProt	DDR
+SOX4	DDRProt	DDR
+SP1	Reactome	Senescence
+SPC24	Reactome	Cell cycle
+SPC25	Reactome	Cell cycle
+SPDL1	Reactome	Cell cycle
+SPI-2	Reactome	Necrosis
+SPO11	Reactome	Cell cycle
+SPTAN1	Reactome	Apoptosis
+SSNA1	Reactome	Cell cycle
+STAG1	KEGG & Reactome	Cell cycle
+STAG2	KEGG & Reactome	Cell cycle
+STAG3	Reactome	Cell cycle
+STAT3	Reactome	Senescence
+STK24	Reactome	Apoptosis
+STK26	Reactome	Apoptosis
+STRA13	Reactome	Cell cycle
+SUMO1	Reactome	Cell cycle
+SUN1	Reactome	Cell cycle
+SUN2	Reactome	Cell cycle
+SUZ12	Reactome	Senescence
+SYCE1	Reactome	Cell cycle
+SYCE2	Reactome	Cell cycle
+SYCP1	Reactome	Cell cycle
+SYCP2	Reactome	Cell cycle
+SYCP3	Reactome	Cell cycle
+SYNE1	Reactome	Cell cycle
+SYNE2	Reactome	Cell cycle
+TAOK1	DDRProt	DDR
+TAOK1	Reactome	Cell cycle
+TDP1	DDRProt	DDR
+TDP2	DDRProt	DDR
+TERC	Reactome	Telomeres
+TERF1	Reactome	Cell cycle
+TERF1	Reactome	Senescence
+TERF1	Reactome	Telomeres
+TERF2	DDRProt	DDR
+TERF2	Reactome	Cell cycle
+TERF2	Reactome	Senescence
+TERF2	Reactome	Telomeres
+TERF2IP	Reactome	Cell cycle
+TERF2IP	Reactome	Senescence
+TERF2IP	Reactome	Telomeres
+TERT	Reactome	Cell cycle
+TERT	Reactome	Telomeres
+TEX12	Reactome	Cell cycle
+TEX15	Reactome	Cell cycle
+TFDP1	KEGG & Reactome	Cell cycle
+TFDP1	Reactome	Apoptosis
+TFDP1	Reactome	Senescence
+TFDP2	KEGG & Reactome	Cell cycle
+TGFB1	KEGG	Cell cycle
+TGFB2	KEGG	Cell cycle
+TGFB3	KEGG	Cell cycle
+TICAM1	Reactome	Apoptosis
+TICAM2	Reactome	Apoptosis
+TIMELESS	DDRProt	DDR
+TINF2	Reactome	Cell cycle
+TINF2	Reactome	Senescence
+TINF2	Reactome	Telomeres
+TIPIN	DDRProt	DDR
+TJP1	Reactome	Apoptosis
+TJP2	Reactome	Apoptosis
+TK2	Reactome	Cell cycle
+TLR3	Reactome	Apoptosis
+TLR4	Reactome	Apoptosis
+TMPO	Reactome	Cell cycle
+TNF	KEGG	Apoptosis
+TNFRSF10A	KEGG & Reactome	Apoptosis
+TNFRSF10A	Reactome	Necrosis
+TNFRSF10B	KEGG & Reactome	Apoptosis
+TNFRSF10B	Reactome	Necrosis
+TNFRSF10C	KEGG	Apoptosis
+TNFRSF10D	KEGG	Apoptosis
+TNFRSF1A	KEGG	Apoptosis
+TNFSF10	KEGG & Reactome	Apoptosis
+TNFSF10	Reactome	Necrosis
+TNIK	Reactome	Senescence
+TNRC6A	Reactome	Senescence
+TNRC6B	Reactome	Senescence
+TNRC6C	Reactome	Senescence
+TOP2A	Reactome	Cell cycle
+TOP3A	DDRProt	DDR
+TOP3A	Reactome	Cell cycle
+TOPBP1	DDRProt	DDR
+TP53	KEGG & Reactome	Apoptosis
+TP53	KEGG & Reactome	Cell cycle
+TP53	Reactome	Senescence
+TP53BP1	DDRProt	DDR
+TP53BP1	Reactome	Cell cycle
+TPR	Reactome	Cell cycle
+TRADD	KEGG & Reactome	Apoptosis
+TRADD	Reactome	Necrosis
+TRAF2	KEGG & Reactome	Apoptosis
+TRAF2	Reactome	Necrosis
+TRIM28	DDRProt	DDR
+TRIP12	DDRProt	DDR
+TTK	KEGG	Cell cycle
+TUBA1A	Reactome	Cell cycle
+TUBA1B	Reactome	Cell cycle
+TUBA1C	Reactome	Cell cycle
+TUBA3C	Reactome	Cell cycle
+TUBA3E	Reactome	Cell cycle
+TUBA4A	Reactome	Cell cycle
+TUBA4B	Reactome	Cell cycle
+TUBA8	Reactome	Cell cycle
+TUBAL3	Reactome	Cell cycle
+TUBB	Reactome	Cell cycle
+TUBB1	Reactome	Cell cycle
+TUBB2A	Reactome	Cell cycle
+TUBB2B	Reactome	Cell cycle
+TUBB3	Reactome	Cell cycle
+TUBB4A	Reactome	Cell cycle
+TUBB4B	Reactome	Cell cycle
+TUBB6	Reactome	Cell cycle
+TUBB8	Reactome	Cell cycle
+TUBG1	Reactome	Cell cycle
+TUBG2	Reactome	Cell cycle
+TUBGCP2	Reactome	Cell cycle
+TUBGCP3	Reactome	Cell cycle
+TUBGCP4	Reactome	Cell cycle
+TUBGCP5	Reactome	Cell cycle
+TUBGCP6	Reactome	Cell cycle
+TXN	Reactome	Senescence
+TYMS	Reactome	Cell cycle
+Tubulin	Reactome	Cell cycle
+UBA52	Reactome	Apoptosis
+UBA52	Reactome	Cell cycle
+UBA52	Reactome	DNA Replication
+UBA52	Reactome	Necrosis
+UBA52	Reactome	Senescence
+UBB	Reactome	Apoptosis
+UBB	Reactome	Cell cycle
+UBB	Reactome	DNA Replication
+UBB	Reactome	Necrosis
+UBB	Reactome	Senescence
+UBC	Reactome	Apoptosis
+UBC	Reactome	Cell cycle
+UBC	Reactome	DNA Replication
+UBC	Reactome	Necrosis
+UBC	Reactome	Senescence
+UBE2C	Reactome	Cell cycle
+UBE2C	Reactome	Senescence
+UBE2D1	Reactome	Cell cycle
+UBE2D1	Reactome	Senescence
+UBE2E1	Reactome	Cell cycle
+UBE2E1	Reactome	Senescence
+UBE2I	Reactome	Cell cycle
+UBE2N	DDRProt	DDR
+UBE2N	Reactome	Cell cycle
+UBE2T	DDRProt	DDR
+UBE2V2	Reactome	Cell cycle
+UBN1	Reactome	Senescence
+UBR5	DDRProt	DDR
+UIMC1	DDRProt	DDR
+UIMC1	Reactome	Cell cycle
+UNC5A	Reactome	Apoptosis
+UNC5B	Reactome	Apoptosis
+USO1	Reactome	Cell cycle
+USP11	DDRProt	DDR
+VIM	Reactome	Apoptosis
+VRK1	Reactome	Cell cycle
+VRK2	Reactome	Cell cycle
+WAPAL	Reactome	Cell cycle
+WEE1	DDRProt	DDR
+WEE1	KEGG & Reactome	Cell cycle
+WEE2	KEGG	Cell cycle
+WHSC1	Reactome	Cell cycle
+WRAP53	Reactome	Cell cycle
+WRAP53	Reactome	Telomeres
+XIAP	KEGG & Reactome	Apoptosis
+XIAP	Reactome	Necrosis
+XPA	DDRProt	DDR
+XPC	DDRProt	DDR
+XPO1	Reactome	Cell cycle
+XRCC1	DDRProt	DDR
+XRCC4	DDRProt	DDR
+XRCC5	DDRProt	DDR
+XRCC6	DDRProt	DDR
+YWHAB	KEGG & Reactome	Cell cycle
+YWHAB	Reactome	Apoptosis
+YWHAE	DDRProt	DDR
+YWHAE	KEGG & Reactome	Cell cycle
+YWHAE	Reactome	Apoptosis
+YWHAG	KEGG & Reactome	Cell cycle
+YWHAG	Reactome	Apoptosis
+YWHAH	KEGG & Reactome	Cell cycle
+YWHAH	Reactome	Apoptosis
+YWHAQ	KEGG & Reactome	Cell cycle
+YWHAQ	Reactome	Apoptosis
+YWHAZ	KEGG & Reactome	Cell cycle
+YWHAZ	Reactome	Apoptosis
+ZBTB17	KEGG	Cell cycle
+ZW10	Reactome	Cell cycle
+ZWILCH	Reactome	Cell cycle
+ZWINT	Reactome	Cell cycle

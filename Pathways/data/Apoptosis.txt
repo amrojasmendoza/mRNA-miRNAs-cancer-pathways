@@ -1,0 +1,214 @@
+Gene	Origen
+ACIN1	Reactome
+ADD1	Reactome
+AIFM1	KEGG
+AKT1	KEGG & Reactome
+AKT2	KEGG & Reactome
+AKT3	KEGG & Reactome
+APAF1	KEGG & Reactome
+APC	Reactome
+APPL1	Reactome
+ARHGAP10	Reactome
+ATM	KEGG
+BAD	KEGG & Reactome
+BAK1	Reactome
+BAX	KEGG & Reactome
+BBC3	Reactome
+BCAP31	Reactome
+BCL2	KEGG & Reactome
+BCL2L1	KEGG & Reactome
+BCL2L11	Reactome
+BID	KEGG & Reactome
+BIRC2	KEGG & Reactome
+BIRC3	KEGG
+BIRC7	KEGG
+BIRC8	KEGG
+BMF	Reactome
+BMX	Reactome
+CAPN1	KEGG
+CAPN2	KEGG
+CASP10	KEGG
+CASP12	KEGG
+CASP3	KEGG & Reactome
+CASP6	KEGG & Reactome
+CASP7	KEGG & Reactome
+CASP8	KEGG & Reactome
+CASP9	KEGG & Reactome
+CD14	Reactome
+CDH1	Reactome
+CFLAR	KEGG & Reactome
+CHUK	KEGG
+CLSPN	Reactome
+CSF2RB	KEGG
+CTNNB1	Reactome
+CYCS	KEGG & Reactome
+DAPK1	Reactome
+DAPK2	Reactome
+DAPK3	Reactome
+DBNL	Reactome
+DCC	Reactome
+DFFA	KEGG & Reactome
+DFFB	KEGG & Reactome
+DIABLO	Reactome
+DNM1L	Reactome
+DSG1	Reactome
+DSG2	Reactome
+DSG3	Reactome
+DSP	Reactome
+DYNLL1	Reactome
+DYNLL2	Reactome
+E2F1	Reactome
+ENDOG	KEGG
+FADD	KEGG & Reactome
+FAS	KEGG & Reactome
+FASLG	KEGG & Reactome
+FNTA	Reactome
+GAS2	Reactome
+GSN	Reactome
+GZMB	Reactome
+H1F0	Reactome
+HIST1H1A	Reactome
+HIST1H1B	Reactome
+HIST1H1C	Reactome
+HIST1H1D	Reactome
+HIST1H1E	Reactome
+HMGB1	Reactome
+HMGB2	Reactome
+IKBKB	KEGG
+IKBKG	KEGG
+IL1A	KEGG
+IL1B	KEGG
+IL1R1	KEGG
+IL1RAP	KEGG
+IL3	KEGG
+IL3RA	KEGG
+IRAK1	KEGG
+IRAK2	KEGG
+IRAK3	KEGG
+IRAK4	KEGG
+KPNA1	Reactome
+KPNB1	Reactome
+LMNA	Reactome
+LMNB1	Reactome
+LY96	Reactome
+MAGED1	Reactome
+MAP3K14	KEGG
+MAPK8	Reactome
+MAPT	Reactome
+MYD88	KEGG
+NFKB1	KEGG
+NFKBIA	KEGG
+NGF	KEGG
+NMT1	Reactome
+NTRK1	KEGG
+OCLN	Reactome
+PAK2	Reactome
+PIK3CA	KEGG
+PIK3CB	KEGG
+PIK3CD	KEGG
+PIK3CG	KEGG
+PIK3R1	KEGG
+PIK3R2	KEGG
+PIK3R3	KEGG
+PIK3R5	KEGG
+PKP1	Reactome
+PLEC	Reactome
+PMAIP1	Reactome
+PPP3CA	KEGG
+PPP3CB	KEGG
+PPP3CC	KEGG & Reactome
+PPP3R1	KEGG & Reactome
+PPP3R2	KEGG
+PRKACA	KEGG
+PRKACB	KEGG
+PRKACG	KEGG
+PRKAR1A	KEGG
+PRKAR1B	KEGG
+PRKAR2A	KEGG
+PRKAR2B	KEGG
+PRKCD	Reactome
+PRKCQ	Reactome
+PSMA1	Reactome
+PSMA2	Reactome
+PSMA3	Reactome
+PSMA4	Reactome
+PSMA5	Reactome
+PSMA6	Reactome
+PSMA7	Reactome
+PSMA8	Reactome
+PSMB1	Reactome
+PSMB10	Reactome
+PSMB11	Reactome
+PSMB2	Reactome
+PSMB3	Reactome
+PSMB4	Reactome
+PSMB5	Reactome
+PSMB6	Reactome
+PSMB7	Reactome
+PSMB8	Reactome
+PSMB9	Reactome
+PSMC1	Reactome
+PSMC2	Reactome
+PSMC3	Reactome
+PSMC4	Reactome
+PSMC5	Reactome
+PSMC6	Reactome
+PSMD1	Reactome
+PSMD10	Reactome
+PSMD11	Reactome
+PSMD12	Reactome
+PSMD13	Reactome
+PSMD14	Reactome
+PSMD2	Reactome
+PSMD3	Reactome
+PSMD4	Reactome
+PSMD5	Reactome
+PSMD6	Reactome
+PSMD7	Reactome
+PSMD8	Reactome
+PSMD9	Reactome
+PSME1	Reactome
+PSME2	Reactome
+PSME3	Reactome
+PSME4	Reactome
+PSMF1	Reactome
+PTK2	Reactome
+RELA	KEGG
+RIPK1	KEGG & Reactome
+ROCK1	Reactome
+RPS27A	Reactome
+SATB1	Reactome
+SFN	Reactome
+SPTAN1	Reactome
+STK24	Reactome
+STK26	Reactome
+TFDP1	Reactome
+TICAM1	Reactome
+TICAM2	Reactome
+TJP1	Reactome
+TJP2	Reactome
+TLR3	Reactome
+TLR4	Reactome
+TNF	KEGG
+TNFRSF10A	KEGG & Reactome
+TNFRSF10B	KEGG & Reactome
+TNFRSF10C	KEGG
+TNFRSF10D	KEGG
+TNFRSF1A	KEGG
+TNFSF10	KEGG & Reactome
+TP53	KEGG & Reactome
+TRADD	KEGG & Reactome
+TRAF2	KEGG & Reactome
+UBA52	Reactome
+UBB	Reactome
+UBC	Reactome
+UNC5A	Reactome
+UNC5B	Reactome
+VIM	Reactome
+XIAP	KEGG & Reactome
+YWHAB	Reactome
+YWHAE	Reactome
+YWHAG	Reactome
+YWHAH	Reactome
+YWHAQ	Reactome
+YWHAZ	Reactome
