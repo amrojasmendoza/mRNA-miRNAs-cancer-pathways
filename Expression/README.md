@@ -14,3 +14,9 @@ Finally, in the RNASeq ini file a TargetPrediction step is performed to retrieve
 
 ##miRGate_miRNA-mRNA-pairs
 In this folder, miRNA-mRNA interactions pairs obtained from miRGate for DE elements in each tumor type is stored.
+
+##Scripts
+This folder contains scripts to make global analysis combining the results from the individual 15 tumor types. That is: 
+Summary_miRGate.pl: To find genes/miRNAs DE in several tumor types
+miRNA-mRNA_stats.pl: 
+Integrative_pairs_all_tumors.pl: 
