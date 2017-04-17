@@ -8,7 +8,6 @@
 $|=1;
 use strict;
 use Getopt::Long;
-use Ubio::Utils::date;
 use List::MoreUtils qw/ uniq /;
 
 my $help;
@@ -114,7 +113,7 @@ if($type and $data){
 						}
 						push(@all_tumors,$tumor);
 						open(RESULTS, "$read_file") || die "$read_file : $!";
-						print STDERR "$count_file) ".date." Reading $tumor data\n";
+						print STDERR "$count_file) ".date()." Reading $tumor data\n";
 			#			print STDERR "$count_file) Reading $tumor data ($read_file)\n";
 						$count_file++;
 						while(<RESULTS>){
@@ -340,7 +339,7 @@ if($type and $data){
 						#print STDERR "Reading $filename - $read_file\n";				
 						push(@all_tumors,$tumor);
 						open(RESULTS, "$read_file") || die "$read_file : $!";
-						print STDERR "$count_file) ".date." Reading $tumor data\n";
+						print STDERR "$count_file) ".date()." Reading $tumor data\n";
 						$count_file++;
 						while(<RESULTS>){
 							chomp;
@@ -482,14 +481,17 @@ sub date{
 }
 
 sub intersec{
-	use Array::Utils qw(:all);
+	use src::Utils qw(:all);
 	my (@found)=@{$_[0]};
 	my (@all)=@{$_[1]};
 	
 	#Not DE for this gene
-	my @minus = array_minus( @all, @found );
+	my @minus = src::Utils::array_minus( @all, @found );
 	return(uniq(@minus));
 }
+
+
+
 __END__
 
 head1 NAME

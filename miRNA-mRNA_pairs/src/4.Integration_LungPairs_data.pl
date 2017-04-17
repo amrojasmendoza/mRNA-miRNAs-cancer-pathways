@@ -8,7 +8,6 @@
 $|=1;
 use strict;
 use Getopt::Long;
-use Ubio::Utils::date;
 use List::MoreUtils qw(uniq);
 
 my $help;
@@ -288,4 +287,10 @@ sub get_expression{
 	}
 	close FILE;
 	return($data);
+}
+sub date{
+        my $date=("date \"+%D %H:%M:%S\"");
+        $date=`$date`;
+        chomp $date;
+        return("[".$date."]");
 }

@@ -9,7 +9,6 @@ $|=1;
 use strict;
 #use warnings;
 use Getopt::Long;
-use Ubio::Utils::date;
 use List::MoreUtils qw/ uniq /;
 
 my $limit=8;
@@ -63,4 +62,9 @@ if($dirname and $limit){
 	 close OUT2;
 	 
 }
-
+sub date{
+        my $date=("date \"+%D %H:%M:%S\"");
+        $date=`$date`;
+        chomp $date;
+        return("[".$date."]");
+}
