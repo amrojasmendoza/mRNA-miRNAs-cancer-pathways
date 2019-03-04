@@ -43,3 +43,5 @@ lung.coxph.pvals.csv                 : coxph P-values in 40 selected lung-exclus
 
 Sergio Alonso
 sergio.alonso.phd@gmail.com
+====
+Amrojasmendoza added a script to address issue 1. Credit of the code to sergio.alonso.phd@gmail.com (Sergio Alonso) 02-22-2019
